@@ -8,4 +8,4 @@ main_gui.py is to run the GUI system
 
 mainwindow.py define the buttons of GUI system.
 
-![Screenshot of GUI.](/yiwangj/GUI/edit/main/README.md#:~:text=GUI%20image.-,png)
+![Screenshot of GUI.](/yiwangj/GUI/edit/main/README.md#:~:text=GUI%20image.png)
