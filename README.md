@@ -5,4 +5,5 @@ Here is the user study written for Laminectomy.We designed a user-friendly GUI s
 
 # How to use
 main_gui.py is to run the GUI system
+
 mainwindow.py define the buttons of GUI system.
